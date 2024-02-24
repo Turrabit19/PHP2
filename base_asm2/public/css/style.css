@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+
+ul {
+    padding-bottom: 25px;
+}
+
+ul li {
+    list-style: none;
+    padding: 0 25px;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 19px;
+    color: black;
+    background-color: aquamarine;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+ul li a:hover {
+    text-decoration: 1px solid white;
+    background-color: chocolate;
+}

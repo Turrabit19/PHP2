@@ -1,0 +1,19 @@
+{
+    "name": "khang/asm2",
+    "description": "Thuc hanh asm2 php2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Turtle19"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2",
+        "eftec/bladeone": "^4.9"
+    }
+}
