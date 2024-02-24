@@ -1,0 +1,31 @@
+    Đối tượng là gì?
+    - Là những sự vật mà ta có thể cầm được, chạm được,...
+
+    Lập trình hướng đối tượng là gì?
+    - Là một kĩ thuật lập trình (sử dụng được trong hầu hết tất cả các ngôn ngữ lập trình)
+    chia bài toán thành một đối tượng cụ thể để giải quyết
+
+    Ưu điểm:
+    - Giúp tổ chức mã nguồn một cách hiệu quả
+    - Giúp chúng ta có thể tái sử dụng đối tượng được ở nhiều nơi
+    - Giúp tạo điều kiện thuận lợi cho việc tái sử dụng mã nguồn
+    - Tăng tính đồng nhất của dự án
+
+    OOP có bao nhiêu tính chất cơ bản?
+    Có 4 tính chất cơ bản:
+    - Đóng gói ( Được thể hiện thông qua class. Class sẽ đóng gói tất cả thuộc tính,
+    phương thức chung nhất của đối tượng vào 1 class để sinh ra nhiều đối tượng từ class ấy ).
+    - Kế thừa
+    - Đa hình
+    - Trừu tượng
+
+    Class là gì? Object là gì?
+    - Class: Là một khuôn mẫu để tạo ra nhiều đối tượng có cùng thuộc tính, tính chất của class đó.
+    - Object: Là đối tượng được tạo ra từ class và mang đầy đủ những đặc tính của class.
+
+    Đặc điểm: Những thành phần góp phần cấu tạo nên đối tượng
+            (Thuộc tính => Biến trong class)
+    Hành động: Những công việc mà đối tượng có thể thực hiện
+            (Phương thức => Hàm trong class)
+
+    ** Lưu ý: Một class có thể tạo nhiều đối tượng nhưng một đối tượng chỉ thuộc về một class.
