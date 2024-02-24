@@ -1,0 +1,19 @@
+{
+    "name": "khang/base_exam",
+    "description": "Bai test PHP2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Orange"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.11",
+        "phroute/phroute": "^2.2"
+    }
+}
