@@ -1,0 +1,6 @@
+//  Đề ASM 1
+//  Tạo ra 1 bảng customer gồm các trường dữ liệu
+//  id, ten_kh, email, sdt
+//  Xây dựng các chức năng thêm, sửa, xóa, hiển thị khách hàng
+//  Chuyển từ mô hình MVC không có class thành MVC có class
+//  Yêu cầu sử dụng đúng mô hình thầy hướng dẫn
